@@ -1,0 +1,25 @@
+feature,importance
+weather_severity_Severe,0.5158605870589839
+journey_hours,0.10491826257029825
+transport_mode_Air,0.05989238556123084
+port_congestion_level_High,0.051984637241502325
+departure_month,0.034252051606567434
+transport_mode_Ocean,0.030475575967402767
+weather_severity_Mild,0.02965720245284179
+weather_severity_Moderate,0.02804399452049371
+customs_workload_High,0.026098326056681272
+customs_workload_Low,0.024117322954662113
+origin_Singapore,0.02269191023066227
+customs_workload_Medium,0.011997210298704581
+port_congestion_level_Low,0.009201548266581212
+port_congestion_level_Medium,0.00831743495080774
+destination_Rotterdam,0.007406367225259712
+origin_Rotterdam,0.0068378306583131675
+destination_Singapore,0.005330498035100559
+origin_Shanghai,0.005278359156996164
+destination_Los Angeles,0.004726430465853385
+destination_Mumbai,0.004688964605106718
+origin_Mumbai,0.0032196173647812687
+destination_Shanghai,0.0024051561464941036
+origin_Los Angeles,0.0016280396132370247
+transport_mode_Multimodal,0.0009702869914378555
